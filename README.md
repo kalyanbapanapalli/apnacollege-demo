@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first repo
-author - kalyan
+author - kalyan (kalyan bapanapalli)
